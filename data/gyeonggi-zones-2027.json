@@ -1,0 +1,8619 @@
+{
+  "year": 2027,
+  "source": "경기도교육공무원인사관리세부기준 67차 별표1",
+  "schools": [
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "고색"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "권선"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "동수원"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "매산"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "매탄"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "서호"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "세류"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "송정"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수원"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "남수원"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수원신곡"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "연무"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "영화"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "율전"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "인계"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "지동"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "창용"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "파장"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "화서"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "화홍"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "송죽"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "칠보"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "화양"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "구운"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "세곡"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "산남"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "정자"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "효원"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "정천"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "우만"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "원천"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "조원"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "효성"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "곡선"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "태장"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "효정"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수원선일"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "호매실"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "숙지"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "신영"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "영통"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "황곡"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "청명"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "영덕"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "영일"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "영동"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "신성"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "천일"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수원동신"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "송림"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "명인"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "대평"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "한일"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "송원"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "원일"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "일월"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "탑동"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "명당"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "율현"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "곡반"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "효천"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수성"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "잠원"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "천천"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "효동"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "매현"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "고현"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수일"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "팔달"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수원매화"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "효탑"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "대선"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "서평"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "매여울"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "안룡"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "당수"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "상률"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "오목"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "상촌"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "남창"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수원금곡"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "입북"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "오현"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "광교"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "이의"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "선행"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "곡정"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "산의"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "능실"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수원중촌"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "매원"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "신풍"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "신풍분교장",
+      "isBranch": true
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수원가온"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "다솔"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "수원금호"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "광교호수"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "망포"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "갑",
+      "schoolName": "글빛"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "을",
+      "schoolName": "매교"
+    },
+    {
+      "city": "수원",
+      "office": "수원",
+      "zone": "을",
+      "schoolName": "규장"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남신기"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "단남"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "하원"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남동"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "분당"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "중원"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "대원"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "대일"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남중앙"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "검단"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "대하"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남제일"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "상원"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남은행"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "돌마"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "단대"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "희망대"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남북"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성수"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남수정"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "금빛"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "태평"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "수진"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남서"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남신흥"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "서현"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "초림"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "내정"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "당촌"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "안말"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남매송"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "수내"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "서당"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "이매"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "야탑"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "중탑"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "하탑"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "상탑"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남장안"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "청솔"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "백현"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "한솔"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "불정"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "금상"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "양영"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "구미"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "탄천"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남미금"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "오리"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "불곡"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "중부"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "상대원"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "늘푸른"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남정자"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남양지"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "도촌"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "산운"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남송현"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "운중"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "보평"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "낙생"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "왕남"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "복정"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "신백현"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "판교"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남화랑"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "성남여수"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "위례푸른"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "위례고운"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "위례중앙"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "위례한빛"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "갑",
+      "schoolName": "판교대장"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "을",
+      "schoolName": "위례해솔"
+    },
+    {
+      "city": "성남",
+      "office": "성남",
+      "zone": "을",
+      "schoolName": "금토"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부중앙"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "호암"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "가능"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "금오"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "경의"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "녹양"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "배영"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부서"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부용현"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부신곡"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부장암"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "회룡"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "동오"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부호동"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "발곡"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부청룡"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "신동"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "솔뫼"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "민락"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "오동"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부부용"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의순"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "어룡"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "새말"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부호원"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부효자"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "동암"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "버들개"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "송양"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "고산"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "의정부송산"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "삼현"
+    },
+    {
+      "city": "의정부",
+      "office": "의정부",
+      "zone": "갑",
+      "schoolName": "훈민"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "덕천"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "만안"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "명학"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양서"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "관양"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "인덕원"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "박달"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "비산"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양중앙"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "삼성"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "석수"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양남"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "호계"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "호성"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "호원"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "부림"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양덕현"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "범계"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양부흥"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "동안"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양신기"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "평촌"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "달안"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "희성"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "민백"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "귀인"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양부안"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양관악"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "삼봉"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "벌말"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안일"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "샘모루"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "화창"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "나눔"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "신안"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양양지"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양동"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "연현"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "안양호암"
+    },
+    {
+      "city": "안양",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "해오름"
+    },
+    {
+      "city": "과천",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "과천"
+    },
+    {
+      "city": "과천",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "관문"
+    },
+    {
+      "city": "과천",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "문원"
+    },
+    {
+      "city": "과천",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "청계"
+    },
+    {
+      "city": "과천",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "과천갈현"
+    },
+    {
+      "city": "과천",
+      "office": "안양과천",
+      "zone": "갑",
+      "schoolName": "과천율목"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천북"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "약대"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부일"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "원미"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천신흥"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "도당"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천중앙"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천남"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천동"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천서"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "소사"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "심곡"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "성주"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천부안"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부원"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "동곡"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "상지"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "범박"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "도원"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "복사"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "창영"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "계남"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천부곡"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "상동"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "중흥"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부인"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부광"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부명"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천부흥"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "상도"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "송내"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "심원"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "신도"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "소일"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천중원"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천역곡"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "상일"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "상인"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "상원"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "석천"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "옥산"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천일신"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "솔안"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천송일"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "상미"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천양지"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "소안"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "중동"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "오정"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천삼정"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "원종"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "고강"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천덕산"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "대장분교장",
+      "isBranch": true
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천대명"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천수주"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천여월"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "까치울"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "고리울"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "동산"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "성곡"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "부천원일"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "옥길산들"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "schoolName": "옥길버들"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "광명"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "광명남"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "광일"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "광명광덕"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "철산"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "광명동"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "광명서"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "광명북"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "도덕"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "광명광성"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "하안북"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "하안"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "가림"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "연서"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "하안남"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "광문"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "하일"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "서면"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "소하"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "구름산"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "안현"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "충현"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "갑",
+      "schoolName": "빛가온"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "을",
+      "schoolName": "안서"
+    },
+    {
+      "city": "광명",
+      "office": "광명",
+      "zone": "을",
+      "schoolName": "온신"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "동두천송내"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "동두천신천"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "지행"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "이담"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "동두천"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "보산"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "생연"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "사동"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "동보"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "소요"
+    },
+    {
+      "city": "동두천",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "탑동"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "양주덕현"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "고암"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "칠봉"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "삼숭"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "광숭"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "주원"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "광사"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "만송"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "회천"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "옥정"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "옥빛"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "율빛"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "율정"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "천보"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "연푸른"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "회암"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "갑",
+      "schoolName": "옥정호수"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "유양"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "은현"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "상패"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "봉암"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "남면"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "양덕분교장",
+      "isBranch": true
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "상수"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "가납"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "덕도"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "효촌"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "양주백석"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "연곡"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "송추"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "삼상"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "산북"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "은봉"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "회정"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "덕계"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "신지"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "도둔"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "덕정"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "양주덕산"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "푸른샘"
+    },
+    {
+      "city": "양주",
+      "office": "동두천양주",
+      "zone": "을",
+      "schoolName": "회천새봄"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "고잔"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "관산"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "안산중앙"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "본오"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "호동"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "경일"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "덕성"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "선부"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "성포"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "삼일"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "화랑"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "상록"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "시곡"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "본원"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "초당"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "매화"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "경수"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "성안"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "송호"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "안산양지"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "별망"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "슬기"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "각골"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "초지"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "학현"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "안산진흥"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "안산호원"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "안산해양"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "안산청석"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "원일"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "석호"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "안산서"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "정지"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "신길"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "안산대월"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "갑",
+      "schoolName": "안산해솔"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "정재"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "선일"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "안산화정"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "와동"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "안산"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "안산석수"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "능길"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "시랑"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "덕인"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "안산원곡"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "대부"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "대남"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "대동"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "안산광덕"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "안산부곡"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "이호"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "안산창촌"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "반월"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "을",
+      "schoolName": "팔곡"
+    },
+    {
+      "city": "안산",
+      "office": "안산",
+      "zone": "병",
+      "schoolName": "대남풍도분교장",
+      "subZone": "가",
+      "isBranch": true
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평택성동"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평택중앙"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평택"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평일"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "비전"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "합정"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "덕동"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "서정리"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "송북"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "송신"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "복창"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "지장"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평택지산"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "세교"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "소사벌"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "이충"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "송일"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "군문"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "동삭"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "장당"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "반지"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "송현"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "용이"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "자란"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "현촌"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평택이화"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "가내"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평택서재"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "용죽"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "세아"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평택새빛"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "종덕"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평택대동"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평택모산"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "지제"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "배다리"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "고덕"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "율포"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "해창"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "민세"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "갑",
+      "schoolName": "평택영신"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "죽백"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "송탄"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "부용"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "팽성"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "계성"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "진위"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "산대분교장",
+      "isBranch": true
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "갈곶"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "서탄"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "내수분교장",
+      "isBranch": true
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "효덕"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "오성"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "창신"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "안중"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "청북"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "어연"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "삼덕"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "현덕"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "광덕분교장",
+      "isBranch": true
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "내기"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "신영분교장",
+      "isBranch": true
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "원정"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "홍원"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "가사"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "현화"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "평택안일"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "현일"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "평택송화"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "평택도곡"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "청옥"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "평택청아"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "고덕함박"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "평택화양"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "평택연화"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "가재"
+    },
+    {
+      "city": "평택",
+      "office": "평택",
+      "zone": "을",
+      "schoolName": "평안"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "군포"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "금정"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "산본"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "군포양정"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "군포화산"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "흥진"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "능내"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "둔전"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "광정"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "수리"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "궁내"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "곡란"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "신흥"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "태"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "오금"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "용호"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "군포옥천"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "당동"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "당정"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "한얼"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "군포신기"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "관모"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "도장"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "군포대야"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "둔대"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "부곡중앙"
+    },
+    {
+      "city": "군포",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "송안"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "고천"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "의왕부곡"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "백운"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "내손"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "오전"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "왕곡"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "의왕"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "의왕덕성"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "갈뫼"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "모락"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "포일"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "내동"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "덕장"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "갑",
+      "schoolName": "백운호수"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "의왕푸른"
+    },
+    {
+      "city": "의왕",
+      "office": "군포의왕",
+      "zone": "을",
+      "schoolName": "월암"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "백마"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "장항분교장",
+      "isBranch": true
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "행신"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "고양백석"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "성라"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "낙민"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "정발"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "강선"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "주엽"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "호수"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "문촌"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "한수"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "고양신일"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "오마"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "문화"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "백신"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "신촌"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "무원"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "냉천"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "율동"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "저동"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "성저"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "장성"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "고양용현"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "소만"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "고양화수"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "고양화정"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "백양"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "화중"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "가람"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "지도"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "성신"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "금계"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "용정"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "신능"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "원당"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "성사"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "대화"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "삼송"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "신원"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "원중"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "일산"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "흥도"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "황룡"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "상탄"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "중산"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "호곡"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "현산"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "풍산"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "안곡"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "고양한내"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "한뫼"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "다솜"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "풍동"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "하늘"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "모당"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "아람"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "서정"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "양일"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "송포"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "가좌"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "백송"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "한산"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "고양동산"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "도래울"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "창릉"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "한류"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "향동"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "향동숲내"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "지축"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "원흥"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "행남"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "덕은한강"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "고양오금"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "능곡"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "고봉"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "일산은행"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "토당"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "장촌"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "덕이"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "지효"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "갑",
+      "schoolName": "고양장항"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "을",
+      "schoolName": "고양"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "을",
+      "schoolName": "내유"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "을",
+      "schoolName": "대곡"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "을",
+      "schoolName": "덕은"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "을",
+      "schoolName": "벽제"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "을",
+      "schoolName": "성석"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "을",
+      "schoolName": "용두"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "을",
+      "schoolName": "행주"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "을",
+      "schoolName": "고양관산"
+    },
+    {
+      "city": "고양",
+      "office": "고양",
+      "zone": "을",
+      "schoolName": "목암"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "인창"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "토평"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "구리"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "부양"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "교문"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "백문"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "도림"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "동구"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "구지"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "동인"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "수택"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "장자"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "건원"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "산마루"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "갈매"
+    },
+    {
+      "city": "구리",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "내양"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "남양주미금"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "남양주양정"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "남양주금곡"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "남양주동곡"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "금교"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "도농"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "가운"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "덕소"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "남양주도곡"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "와부"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "도심"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "예봉"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "화접"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "평내"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "호평"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "장내"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "평동"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "판곡"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "남양주백봉"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "남양주신촌"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "구룡"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "남양주덕송"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "한별"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "남양주샛별"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "별가람"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "다산가람"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "다산한강"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "다산새봄"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "다산하늘"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "하랑"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "다산별빛"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "갑",
+      "schoolName": "남양주다산"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "남양주월문"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "장현"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "풍양"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "광릉"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "오남"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "조안"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "남양주송촌"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "별내"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "진건"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "수동"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "송천분교장",
+      "isBranch": true
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "마석"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "녹촌분교장",
+      "isBranch": true
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "가곡"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "답내"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "금남"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "남양주양지"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "창현"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "은솔"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "용신"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "장승"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "천마"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "남양주송라"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "사능"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "어람"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "양오"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "차산"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "진접"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "부평"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "주곡"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "화봉"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "화도"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "해밀"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "남양주월산"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "가양"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "퇴계원"
+    },
+    {
+      "city": "남양주",
+      "office": "구리남양주",
+      "zone": "을",
+      "schoolName": "도제원"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "갑",
+      "schoolName": "여주"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "갑",
+      "schoolName": "여흥"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "갑",
+      "schoolName": "세종"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "갑",
+      "schoolName": "오학"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "가남"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "강천"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "금당"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "능북"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "능서"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "대신"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "매류"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "문장"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "북내"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "운암분교장",
+      "isBranch": true
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "상품"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "송삼"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "송촌"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "연라"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "오산"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "이포"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "점동(안평분교장"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "뇌곡분교장"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "점봉"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "천남"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "흥천"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "병",
+      "schoolName": "북내도전분교장",
+      "subZone": "다",
+      "isBranch": true
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "병",
+      "schoolName": "북내주암분교장",
+      "subZone": "라"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "병",
+      "schoolName": "이포하호분교장",
+      "subZone": "라"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "점"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "송화"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "구봉"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "안화"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "진안"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "태안"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "화성벌말"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "동학"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "기산"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "화성금곡"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "석우"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "학동"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "반송"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "반석"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "솔빛"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "율목"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "능동"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "예당"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "한마음"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "푸른"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "숲속"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "예원"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "영천"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "한백"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "무봉"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "아인"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "동탄중앙"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "화성반월"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "화성청계"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "예솔"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "청목"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "왕배"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "방교"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "봉담"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "와우"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "동화"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "상봉"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "수영"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "효행"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "치동"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "동탄"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "정현"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "다원"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "서연"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "한율"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "동탄목동"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "청림"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "세정"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "수현"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "서경"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "화남"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "늘봄"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "새봄"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "여울"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "이솔"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "호연"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "화성신동"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "내리숲"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "양감"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "우정"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "화성월문"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "장명"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "장일분교장",
+      "isBranch": true
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "화성장안"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "석포분교장",
+      "isBranch": true
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "정남"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "정림"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "청룡"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "청원"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "팔탄"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "대방분교장",
+      "isBranch": true
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "해운"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "향남"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "화성화수"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "기안"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "화산"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "활초"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "갈담"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "갈천"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "고정"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "남양"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "노진"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "마도"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "마산"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "발안"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "비봉"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "사창"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "서신"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "석천"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "송라"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "송산"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "수기"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "제암"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "배양"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "동양"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "안녕"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "한울"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "도이"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "행정"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "화원"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "하길"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "화성매송"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "상신"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "대양"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "송린"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "새솔"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "신남"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "청연"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "화성바른"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "현민"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "서봉"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "새동"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "다올"
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "봉담2-153("
+    },
+    {
+      "city": "화성",
+      "office": "화성오산",
+      "zone": "병",
+      "schoolName": "서신제부분교장",
+      "subZone": "다",
+      "isBranch": true
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "화성"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "매홀"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "원동"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "운암"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "운천"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "운산"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "오산대원"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "대호"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "오산원일"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "세미"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "수청"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "양산"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "필봉"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "문시"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "광성"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "금암"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "오산고현"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "삼미"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "오산"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "가수"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "세마"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "갑",
+      "schoolName": "세담"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "오산원당"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "성산"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "성호"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "다온"
+    },
+    {
+      "city": "오산",
+      "office": "화성오산",
+      "zone": "을",
+      "schoolName": "마루"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "파주송화"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "금화"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "금릉"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "금향"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "새금"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "해솔"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "운광"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "한가람"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "한빛"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "청석"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "청암"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "두일"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "문발"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "석곶"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "지산"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "파주와동"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "동패"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "와석"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "가온"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "운정"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "산내"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "산들"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "초롱"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "다율"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "별하람"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "갑",
+      "schoolName": "운정해오름"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "봉일천"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "덕암"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "신산"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "도마산"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "용미"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "천현"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "법원"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "파주대원"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "검산"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "문산"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "문산동"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "월롱"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "교하"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "심학"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "임진"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "파주"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "영도"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "능안"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "자유"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "갈현"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "금촌"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "금신"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "청미르"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "숲노"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "물향기"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "을",
+      "schoolName": "운정중앙"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "대성동",
+      "subZone": "가"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "마정",
+      "subZone": "나"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "탄현",
+      "subZone": "나"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "삼성",
+      "subZone": "나"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "장파",
+      "subZone": "나"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "군내",
+      "subZone": "나"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "통일",
+      "subZone": "나"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "파평",
+      "subZone": "다"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "용연",
+      "subZone": "다"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "마지",
+      "subZone": "다"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "적서",
+      "subZone": "다"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "파양",
+      "subZone": "라"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "연풍",
+      "subZone": "라"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "웅담",
+      "subZone": "라"
+    },
+    {
+      "city": "파주",
+      "office": "파주",
+      "zone": "병",
+      "schoolName": "적암",
+      "subZone": "라"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "광주"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "역동"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "광남"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "태전"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "쌍령"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "탄벌"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "벌원"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "태성"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "한아람"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "광주푸른"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "광주송정"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "고산하늘"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "능평"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "고산별빛"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "오포"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "광주광명"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "광주매곡"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "초월"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "선동"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "도곡"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "도척"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "도궁"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "곤지암"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "만선"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "도수"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "분원"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "남한산"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "광지원"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "번천"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "삼리"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "양벌"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "경안"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "광주도평"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "신현"
+    },
+    {
+      "city": "광주",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "쌍동"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "동부"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "신장"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "덕풍"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "하남천현"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "하남"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "창우"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "신평"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "하남풍산"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "나룰"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "미사강변"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "미사"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "미사중앙"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "위례"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "윤슬"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "한홀"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "청아"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "망월"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "감일"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "위례숲"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "신우"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "갑",
+      "schoolName": "단샘"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "산곡"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "서부"
+    },
+    {
+      "city": "하남",
+      "office": "광주하남",
+      "zone": "을",
+      "schoolName": "고골"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "을",
+      "schoolName": "전곡"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "을",
+      "schoolName": "적동분교장",
+      "isBranch": true
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "을",
+      "schoolName": "화진"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "을",
+      "schoolName": "궁평"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "을",
+      "schoolName": "백의"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "을",
+      "schoolName": "초성"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "을",
+      "schoolName": "은대"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "을",
+      "schoolName": "연천"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "을",
+      "schoolName": "고문분교장",
+      "isBranch": true
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "을",
+      "schoolName": "상리"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "병",
+      "schoolName": "백학",
+      "subZone": "나"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "병",
+      "schoolName": "연천노곡",
+      "subZone": "나"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "병",
+      "schoolName": "군남",
+      "subZone": "다"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "병",
+      "schoolName": "연천왕산",
+      "subZone": "다"
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "병",
+      "schoolName": "마전분교장",
+      "subZone": "다",
+      "isBranch": true
+    },
+    {
+      "city": "연천",
+      "office": "연천",
+      "zone": "병",
+      "schoolName": "대광",
+      "subZone": "다"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "갑",
+      "schoolName": "포천"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "갑",
+      "schoolName": "송우"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "갑",
+      "schoolName": "추산"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "갑",
+      "schoolName": "신봉"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "갑",
+      "schoolName": "태봉"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "선단"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "청성"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "유암"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "내촌"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "화현"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "지현"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "가산"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "정교"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "축석"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "이곡"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "신북"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "외북"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "창수"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "보장"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "영중"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "영평"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "금주"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "일동"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "운담"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "이동"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "포천노곡"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "도평"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "영북"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "관인"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "왕방"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "을",
+      "schoolName": "포담"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "병",
+      "schoolName": "포천삼정",
+      "subZone": "라"
+    },
+    {
+      "city": "포천",
+      "office": "포천",
+      "zone": "병",
+      "schoolName": "중리",
+      "subZone": "라"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "가평"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "청평"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "상색"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "미원"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "위곡분교장",
+      "isBranch": true
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "대성"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "상천"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "상면"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "율길"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "연하"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "조종"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "목동"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "을",
+      "schoolName": "가평마장"
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "병",
+      "schoolName": "목동명지분교장",
+      "subZone": "나",
+      "isBranch": true
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "병",
+      "schoolName": "미원장락분교장",
+      "subZone": "라",
+      "isBranch": true
+    },
+    {
+      "city": "가평",
+      "office": "가평",
+      "zone": "병",
+      "schoolName": "방일",
+      "subZone": "라"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "양평"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "양수"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "양평동"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "원덕"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "강상"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "강하"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "옥천"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "서종"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "양평단월"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "양동"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "단석분교장",
+      "isBranch": true
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "곡수"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "용문"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "조현"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "다문"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "개군"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "세월"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "양서"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "대아"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "청운"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "지평"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "일신분교장",
+      "isBranch": true
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "을",
+      "schoolName": "수입"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "병",
+      "schoolName": "양동고송분교장",
+      "subZone": "다",
+      "isBranch": true
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "병",
+      "schoolName": "정배",
+      "subZone": "라"
+    },
+    {
+      "city": "양평",
+      "office": "양평",
+      "zone": "병",
+      "schoolName": "서종정배분교장",
+      "subZone": "라",
+      "isBranch": true
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "갑",
+      "schoolName": "이천"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "갑",
+      "schoolName": "이천남"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "갑",
+      "schoolName": "설봉"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "갑",
+      "schoolName": "안흥"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "갑",
+      "schoolName": "한내"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "갑",
+      "schoolName": "이천송정"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "갑",
+      "schoolName": "증포"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "장호원"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "이황"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "대서"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "부발"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "백록분교장",
+      "isBranch": true
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "이천가산"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "신하"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "신둔"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "도암"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "백사"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "도지"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "호법"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "이천매곡"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "마장"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "표교"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "대월"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "이천단월"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "진가"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "모가분교장",
+      "isBranch": true
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "송곡"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "설성"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "장천"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "율면"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "아미"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "이천사동"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "나래"
+    },
+    {
+      "city": "이천",
+      "office": "이천",
+      "zone": "을",
+      "schoolName": "이천중리"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "구성"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "수지"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "신갈"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "구갈"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "토월"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "풍덕"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "죽전"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "대현"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "상현"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "역북"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "신월"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "정평"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "마북"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "보정"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "풍천"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "산양"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "서원"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "성복"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "관곡"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "솔개"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "대지"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인대일"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "마성"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "효자"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "삼가"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "홍천"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "손곡"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "신리"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인신릉"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인대덕"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인신촌"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "독정"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "대청"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "현암"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "신일"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "동막"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인백현"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "동백"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "석성"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인초당"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "동천"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "새빛"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "매봉"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "중일"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "석현"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인한일"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "어정"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "청곡"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "상갈"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "교동"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "서천"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "상하"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "언동"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "나곡"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "이현"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "소현"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "갈곡"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "언남"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "나산"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인심곡"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "청덕"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "흥덕"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인신봉"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "성서"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인한빛"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "서농"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "샘말"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "함박"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "용인한얼"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "보라"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "지석"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "성지"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "갑",
+      "schoolName": "고진"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "고기"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "남곡"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "남곡분교장",
+      "isBranch": true
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "남사"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "남촌"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "능원"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "모현"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "백봉"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "백암"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "수정분교장",
+      "isBranch": true
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "송전"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "양지"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "왕산"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "용천"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "운학"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "원삼"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "두창분교장",
+      "isBranch": true
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "장평"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "제일"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "좌항"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "포곡"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "한터"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "고림"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "용인성산"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "용인둔전"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "지곡"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "용인이동"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "둔전제일"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "두창"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "기흥"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "서룡"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "용인"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "용마"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "공세"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "처인"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "도현"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "용인솔빛"
+    },
+    {
+      "city": "용인",
+      "office": "용인",
+      "zone": "을",
+      "schoolName": "남동"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "갑",
+      "schoolName": "안성"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "갑",
+      "schoolName": "백성"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "갑",
+      "schoolName": "비룡"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "갑",
+      "schoolName": "내혜홀"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "갑",
+      "schoolName": "공도"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "갑",
+      "schoolName": "양진"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "갑",
+      "schoolName": "용머리"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "갑",
+      "schoolName": "만정"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "보개"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "가율분교장",
+      "isBranch": true
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "동신"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "서삼"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "금광"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "조령분교장",
+      "isBranch": true
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "개산"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "서운"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "현매"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "산평"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "미양"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "개정"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "보체"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "대덕"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "명덕"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "양성"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "원곡"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "성은분교장",
+      "isBranch": true
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "일죽"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "죽산"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "광선"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "삼죽"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "고삼"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "광덕"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "미곡"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "죽화"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "방초"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "마전"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "문기"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "어울"
+    },
+    {
+      "city": "안성",
+      "office": "안성",
+      "zone": "을",
+      "schoolName": "공도"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "김포서"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "사우"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "금파"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "감정"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "양도"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "풍무"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "고창"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "운양"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "유현"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "김포신풍"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "장기"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "걸포"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "가현"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "운유"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "푸른솔"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "하늘빛"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "청수"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "김포금빛"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "갑",
+      "schoolName": "김포나진"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "금란"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "학운"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "대곶"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "김포대명"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "수남"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "신곡"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "마송중앙"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "신양"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "서암"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "통진"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "마송"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "양곡"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "김포한가람"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "솔터"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "김포호수"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "나비"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "김포"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "고촌"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "은여울"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "보름"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "김포구래"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "향산"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "을",
+      "schoolName": "모담"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "병",
+      "schoolName": "개곡",
+      "subZone": "나"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "병",
+      "schoolName": "금성",
+      "subZone": "나"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "병",
+      "schoolName": "석정",
+      "subZone": "나"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "병",
+      "schoolName": "월곶",
+      "subZone": "나"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "병",
+      "schoolName": "하성",
+      "subZone": "나"
+    },
+    {
+      "city": "김포",
+      "office": "김포",
+      "zone": "병",
+      "schoolName": "옹정",
+      "subZone": "나"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "소래"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "시흥신일"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "대야"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "시흥은행"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "은계"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "신천"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "금모래"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "시흥도원"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "검바위"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "웃터골"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "서해"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "정왕"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "냉정"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "함현"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "송운"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "서촌"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "시흥"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "시흥월곶"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "월포"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "배곧"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "시화"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "군자"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "도일"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "군서"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "생금"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "배곧한울"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "배곧라온"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "배곧해솔"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "배곧누리"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "은빛"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "배곧라라"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "갑",
+      "schoolName": "군서미래국제학교"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "도창"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "포리"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "계수"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "옥터"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "시흥매화"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "연성"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "승지"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "시흥능곡"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "시흥장현"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "하중"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "진말"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "장곡"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "목감"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "운흥"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "조남"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "산현"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "시흥가온"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "한여울"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "시화나래"
+    },
+    {
+      "city": "시흥",
+      "office": "시흥",
+      "zone": "을",
+      "schoolName": "장현120[별표2]2027년"
+    }
+  ]
+}

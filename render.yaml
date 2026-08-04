@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: findmyschool
+    runtime: node
+    plan: free
+    buildCommand: npm ci && npm run build
+    startCommand: npm run start
+    healthCheckPath: /
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NEXT_PUBLIC_KAKAO_JS_KEY
+        sync: false
+      - key: KAKAO_REST_KEY
+        sync: false
+      - key: SCHOOLINFO_API_KEY
+        sync: false

@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f7f4ef;
+  --foreground: #0f172a;
+  --accent: #047857;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans-kr), "Apple SD Gothic Neo", sans-serif;
+  --font-serif: var(--font-serif-kr), "Apple SD Gothic Neo", serif;
+}
+
+body {
+  background:
+    radial-gradient(circle at 10% 10%, rgba(4, 120, 87, 0.08), transparent 40%),
+    radial-gradient(circle at 90% 0%, rgba(180, 83, 9, 0.08), transparent 35%),
+    var(--background);
+  color: var(--foreground);
+}
+
+html,
+body {
+  height: 100%;
+}
