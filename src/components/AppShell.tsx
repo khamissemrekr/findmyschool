@@ -6,6 +6,7 @@ import { KakaoMapView } from "@/components/KakaoMapView";
 import { OriginSearch } from "@/components/OriginSearch";
 import { Filters } from "@/components/Filters";
 import { CutoffPanel } from "@/components/CutoffPanel";
+import { ReferencePopup } from "@/components/ReferencePopup";
 import { SchoolList } from "@/components/SchoolList";
 import { DetailPanel } from "@/components/DetailPanel";
 import type {
@@ -67,6 +68,7 @@ export function AppShell() {
     useState<TransitPreference>("subway");
   const [message, setMessage] = useState<string | null>(null);
   const [originLocked, setOriginLocked] = useState(false);
+  const [referenceOpen, setReferenceOpen] = useState(false);
 
   // 출발지 고정 상태는 새로고침 후에도 유지
   useEffect(() => {
@@ -421,10 +423,11 @@ export function AppShell() {
             FIND MY SCHOOL
           </p>
           <h1 className="font-serif text-2xl text-slate-900">
-            경기 초등 전보맵
+            초등 전보 도움 지도
           </h1>
           <p className="mt-1 text-sm text-slate-600">
-            거주지 기준으로 시·군 초등학교의 급지와 이동 시간을 비교합니다.
+            가고 싶은 지역의 급지, 학교까지의 이동 시간을 한 눈에 확인할 수
+            있어요
           </p>
         </header>
 
@@ -479,11 +482,18 @@ export function AppShell() {
           )}
         </div>
 
-        <p className="text-[11px] leading-relaxed text-slate-400">
-          급지: 2027 경기도 인사관리세부기준 별표1 · 좌표: OpenStreetMap ·
-          경로: 카카오(자동차·대중교통)
-        </p>
+        <button
+          type="button"
+          onClick={() => setReferenceOpen(true)}
+          className="self-start text-[11px] text-slate-400 underline underline-offset-2 hover:text-slate-600"
+        >
+          참고자료
+        </button>
       </section>
+
+      {referenceOpen && (
+        <ReferencePopup onClose={() => setReferenceOpen(false)} />
+      )}
 
       {selected && (
         <div className="w-full shrink-0 border-b border-slate-200 lg:w-[320px] lg:border-b-0">
