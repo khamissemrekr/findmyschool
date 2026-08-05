@@ -42,9 +42,11 @@ export function CutoffPanel({ office }: Props) {
 
   useEffect(() => {
     if (!office) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
+      setYears([]);
+      setEntries([]);
       return;
     }
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     setLoading(true);
     fetch(`/api/cutoffs?office=${encodeURIComponent(office)}`)
       .then((r) => r.json())
