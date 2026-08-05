@@ -151,8 +151,8 @@ function createLabelEl(
   const wrap = document.createElement("div");
   wrap.style.cssText = [
     "position:relative",
-    "left:18px",
-    "top:-30px",
+    "left:10px",
+    "top:-12px",
     "pointer-events:auto",
     "cursor:pointer",
     "white-space:nowrap",
