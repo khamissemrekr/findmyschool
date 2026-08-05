@@ -5,6 +5,7 @@ import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { KakaoMapView } from "@/components/KakaoMapView";
 import { OriginSearch } from "@/components/OriginSearch";
 import { Filters } from "@/components/Filters";
+import { CutoffPanel } from "@/components/CutoffPanel";
 import { SchoolList } from "@/components/SchoolList";
 import { DetailPanel } from "@/components/DetailPanel";
 import type {
@@ -449,6 +450,8 @@ export function AppShell() {
             updateParams({ zone: z === "전체" ? null : z })
           }
         />
+
+        <CutoffPanel office={city} />
 
         {message && (
           <p className="rounded-md bg-amber-50 px-2 py-1.5 text-xs text-amber-900">
