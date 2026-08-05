@@ -27,6 +27,8 @@ type SortKey =
   | "straight"
   | "car"
   | "transit"
+  | "transitBus"
+  | "transitSubway"
   | "classCount"
   | "research"
   | "lead"
@@ -184,6 +186,18 @@ export function AppShell() {
         return (
           (a.transit?.durationMs ?? Number.POSITIVE_INFINITY) -
           (b.transit?.durationMs ?? Number.POSITIVE_INFINITY)
+        );
+      }
+      if (sort === "transitBus") {
+        return (
+          (a.transitBus?.durationMs ?? Number.POSITIVE_INFINITY) -
+          (b.transitBus?.durationMs ?? Number.POSITIVE_INFINITY)
+        );
+      }
+      if (sort === "transitSubway") {
+        return (
+          (a.transitSubway?.durationMs ?? Number.POSITIVE_INFINITY) -
+          (b.transitSubway?.durationMs ?? Number.POSITIVE_INFINITY)
         );
       }
       if (sort === "research") {

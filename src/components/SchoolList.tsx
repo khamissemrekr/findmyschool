@@ -8,6 +8,8 @@ type SortKey =
   | "straight"
   | "car"
   | "transit"
+  | "transitBus"
+  | "transitSubway"
   | "classCount"
   | "research"
   | "lead"
@@ -69,7 +71,9 @@ export function SchoolList({
           >
             <option value="straight">직선거리</option>
             <option value="car">자동차</option>
-            <option value="transit">대중교통</option>
+            <option value="transit">대중교통(빠른순)</option>
+            <option value="transitBus">대중교통(버스)</option>
+            <option value="transitSubway">대중교통(지하철)</option>
             <option value="classCount">학급수</option>
             <option value="name">학교명순</option>
             <option value="research">연구학교</option>
