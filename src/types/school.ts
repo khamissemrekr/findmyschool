@@ -64,6 +64,14 @@ export interface School {
   leadSchool: boolean;
   /** 신설교(원) 지정 정보 (해당 없으면 null) */
   newSchool: NewSchoolInfo | null;
+  /** 학교알리미(schoolinfo.go.kr) 상세 페이지 URL (없으면 null) */
+  schoolInfoUrl: string | null;
+}
+
+export interface SchoolInfoLinksFile {
+  source: string;
+  /** 학교 id -> 학교알리미 SHL_IDF_CD */
+  links: Record<string, string>;
 }
 
 export interface LeadSchoolsFile {

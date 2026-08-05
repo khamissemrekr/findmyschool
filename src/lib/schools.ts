@@ -4,6 +4,7 @@ import type { CitySummary, School, SchoolsFile } from "@/types/school";
 import { getResearchSchool } from "@/lib/research-schools";
 import { isLeadSchool } from "@/lib/lead-schools";
 import { getNewSchool } from "@/lib/new-schools";
+import { getSchoolInfoUrl } from "@/lib/schoolinfo-links";
 
 let cached: SchoolsFile | null = null;
 let cachedAt = 0;
@@ -31,6 +32,7 @@ function withStaffDefaults(school: School): School {
     researchSchool: getResearchSchool(school.id),
     leadSchool: isLeadSchool(school.id),
     newSchool: getNewSchool(school.id),
+    schoolInfoUrl: getSchoolInfoUrl(school.id),
   };
 }
 

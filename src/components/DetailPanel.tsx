@@ -157,6 +157,16 @@ export function DetailPanel({
               ) : (
                 "—"
               )}
+              {school.schoolInfoUrl && (
+                <a
+                  href={school.schoolInfoUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="mt-1 block text-xs text-emerald-700 underline"
+                >
+                  학교알리미 보기
+                </a>
+              )}
             </dd>
           </div>
           <div>
