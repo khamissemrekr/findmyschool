@@ -114,3 +114,22 @@ export interface SchoolListItem extends School {
   transitBus?: RouteResult | null;
   transitSubway?: RouteResult | null;
 }
+
+export type CutoffStatus = "신규" | "전원수용" | "특만기" | "일반";
+
+export interface CutoffEntry {
+  year: number;
+  /** 커트라인 없이 수용되는 경우의 사유 */
+  status?: CutoffStatus;
+  /** status가 "특만기" | "일반"일 때의 희망순위 */
+  rank?: number;
+  /** 실제 커트라인(전보년수.점수), 예: "4.03" */
+  cutoff?: string;
+  /** cutoff가 있을 때의 급지 표기(갑/을/병/수/우/미 등 원문 그대로) */
+  zone?: string;
+}
+
+export interface CutoffsFile {
+  years: number[];
+  regions: Record<string, CutoffEntry[]>;
+}
