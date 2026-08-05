@@ -7,6 +7,8 @@ import { OriginSearch } from "@/components/OriginSearch";
 import { Filters } from "@/components/Filters";
 import { CutoffPanel } from "@/components/CutoffPanel";
 import { ReferencePopup } from "@/components/ReferencePopup";
+import { ContactPopup } from "@/components/ContactPopup";
+import { UsageGuidePopup } from "@/components/UsageGuidePopup";
 import { SchoolList } from "@/components/SchoolList";
 import { DetailPanel } from "@/components/DetailPanel";
 import type {
@@ -69,6 +71,8 @@ export function AppShell() {
   const [message, setMessage] = useState<string | null>(null);
   const [originLocked, setOriginLocked] = useState(false);
   const [referenceOpen, setReferenceOpen] = useState(false);
+  const [contactOpen, setContactOpen] = useState(false);
+  const [usageGuideOpen, setUsageGuideOpen] = useState(false);
 
   // 출발지 고정 상태는 새로고침 후에도 유지
   useEffect(() => {
@@ -482,17 +486,39 @@ export function AppShell() {
           )}
         </div>
 
-        <button
-          type="button"
-          onClick={() => setReferenceOpen(true)}
-          className="self-start text-[11px] text-slate-400 underline underline-offset-2 hover:text-slate-600"
-        >
-          참고자료
-        </button>
+        <div className="flex flex-wrap items-center gap-x-2 gap-y-1 self-start text-[11px] text-slate-400">
+          <button
+            type="button"
+            onClick={() => setReferenceOpen(true)}
+            className="underline underline-offset-2 hover:text-slate-600"
+          >
+            참고자료
+          </button>
+          <span aria-hidden="true">|</span>
+          <button
+            type="button"
+            onClick={() => setContactOpen(true)}
+            className="underline underline-offset-2 hover:text-slate-600"
+          >
+            문의/오류 제보
+          </button>
+          <span aria-hidden="true">|</span>
+          <button
+            type="button"
+            onClick={() => setUsageGuideOpen(true)}
+            className="underline underline-offset-2 hover:text-slate-600"
+          >
+            사용방법
+          </button>
+        </div>
       </section>
 
       {referenceOpen && (
         <ReferencePopup onClose={() => setReferenceOpen(false)} />
+      )}
+      {contactOpen && <ContactPopup onClose={() => setContactOpen(false)} />}
+      {usageGuideOpen && (
+        <UsageGuidePopup onClose={() => setUsageGuideOpen(false)} />
       )}
 
       {selected && (
