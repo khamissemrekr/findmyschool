@@ -230,7 +230,9 @@ def parse_zones(sec: str):
     city_pat = "(?:" + "|".join(CITIES_SORTED) + ")"
 
     for chunk in chunks:
-        parts_z = re.split(r"(갑|을|병)", chunk)
+        # 학교명 안에 갑/을/병 음절이 포함된 경우(숲노을, 병점, 태을 등)
+        # 존 구분자로 오인해 이름·인사구역이 깨지므로 한글 경계에서만 분리한다.
+        parts_z = re.split(r"(?<![가-힣])(갑|을|병)(?![가-힣])", chunk)
         city_ctx = last_city_in(parts_z[0])
         j = 1
         while j < len(parts_z):
