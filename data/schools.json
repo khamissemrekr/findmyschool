@@ -23565,6 +23565,40 @@
       "classCount": null,
       "studentCount": null,
       "isBranch": false
+    },
+    {
+      "id": "부천-갑-x-부천덕산",
+      "schoolCode": null,
+      "name": "부천덕산초등학교",
+      "shortName": "부천덕산",
+      "address": null,
+      "homepage": null,
+      "tel": null,
+      "lat": null,
+      "lng": null,
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
+      "classCount": null,
+      "studentCount": null,
+      "isBranch": false
+    },
+    {
+      "id": "여주-을-x-점동",
+      "schoolCode": null,
+      "name": "점동초등학교",
+      "shortName": "점동",
+      "address": null,
+      "homepage": null,
+      "tel": null,
+      "lat": null,
+      "lng": null,
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "classCount": null,
+      "studentCount": null,
+      "isBranch": false
     }
   ]
 }

@@ -143,6 +143,7 @@ def resolve_closed_markers(text: str) -> tuple[str, set[str]]:
             stripped
             and len(stripped) <= 20
             and CLOSED_NAME_RE.match(stripped)
+            and re.search(r"[가-힣]", stripped)
             and stripped not in ZONE_LABELS
         ):
             closed_names.add(stripped)
@@ -184,11 +185,32 @@ def make(city, zone, sub, name, is_branch):
     return e
 
 
+def split_top_level(text: str) -> list[str]:
+    """괄호(분교 목록) 안의 쉼표는 무시하고 최상위 쉼표에서만 분리한다.
+    (예: "점동(안평분교장, 뇌곡분교장)"의 안쪽 쉼표에서 잘못 분리되면
+    본교명이 통째로 유실되는 문제가 있었음)"""
+    items = []
+    depth = 0
+    buf = []
+    for ch in text:
+        if ch == "(":
+            depth += 1
+        elif ch == ")":
+            depth = max(0, depth - 1)
+        if ch == "," and depth == 0:
+            items.append("".join(buf))
+            buf = []
+        else:
+            buf.append(ch)
+    items.append("".join(buf))
+    return items
+
+
 def parse_school_list(entries, text, city, zone, sub=None):
     text = text.strip()
     text = re.sub(r"\s*\d+(\(\d+\))?\s*$", "", text)
     text = re.sub(r"\(\d+\)\s*$", "", text)
-    items = [x.strip() for x in text.split(",") if x.strip()]
+    items = [x.strip() for x in split_top_level(text) if x.strip()]
     for item in items:
         if "교육지원청" in item:
             continue

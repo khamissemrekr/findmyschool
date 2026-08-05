@@ -1854,6 +1854,12 @@
       "city": "부천",
       "office": "부천",
       "zone": "갑",
+      "schoolName": "부천덕산"
+    },
+    {
+      "city": "부천",
+      "office": "부천",
+      "zone": "갑",
       "schoolName": "부천대명"
     },
     {
@@ -4586,6 +4592,12 @@
       "office": "여주",
       "zone": "을",
       "schoolName": "이포"
+    },
+    {
+      "city": "여주",
+      "office": "여주",
+      "zone": "을",
+      "schoolName": "점동"
     },
     {
       "city": "여주",
