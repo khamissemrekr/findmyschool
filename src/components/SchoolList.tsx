@@ -93,6 +93,11 @@ export function SchoolList({
                         연구학교
                       </span>
                     )}
+                    {s.leadSchool && (
+                      <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-cyan-100 text-cyan-800">
+                        선도학교
+                      </span>
+                    )}
                     <span className="text-[11px] text-slate-500">
                       {[
                         s.classCount != null || s.studentCount != null

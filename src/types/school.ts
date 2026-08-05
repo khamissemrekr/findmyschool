@@ -60,6 +60,14 @@ export interface School {
   staffCount: number | null;
   /** 2026학년도 연구학교 지정 정보 (미지정이면 null) */
   researchSchool: ResearchSchoolInfo | null;
+  /** 2026년 AI·디지털 활용 선도학교 지정 여부 */
+  leadSchool: boolean;
+}
+
+export interface LeadSchoolsFile {
+  year: number;
+  source: string;
+  schoolIds: string[];
 }
 
 export interface SchoolsFile {

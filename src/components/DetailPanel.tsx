@@ -84,6 +84,11 @@ export function DetailPanel({
                   연구학교
                 </span>
               )}
+              {school.leadSchool && (
+                <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-cyan-100 text-cyan-800">
+                  선도학교
+                </span>
+              )}
             </h2>
           </div>
           <button
@@ -166,6 +171,16 @@ export function DetailPanel({
                   운영 기간 {school.researchSchool.period}
                 </p>
               </dd>
+            </div>
+          )}
+          {school.leadSchool && (
+            <div className="rounded-lg bg-cyan-50 p-2.5">
+              <dt className="flex items-center gap-1.5 text-xs font-medium text-cyan-800">
+                <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-cyan-100 text-cyan-800">
+                  선도학교
+                </span>
+                2026년 AI·디지털 활용 선도학교
+              </dt>
             </div>
           )}
         </dl>
