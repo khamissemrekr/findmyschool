@@ -22,7 +22,15 @@ import type {
   Zone,
 } from "@/types/school";
 
-type SortKey = "name" | "straight" | "car" | "transit" | "classCount";
+type SortKey =
+  | "name"
+  | "straight"
+  | "car"
+  | "transit"
+  | "classCount"
+  | "research"
+  | "lead"
+  | "newSchool";
 
 const TRANSIT_SEGMENT_COLOR: Record<string, { color: string; dashed?: boolean }> = {
   WALK: { color: "#64748b", dashed: true },
@@ -177,6 +185,20 @@ export function AppShell() {
           (a.transit?.durationMs ?? Number.POSITIVE_INFINITY) -
           (b.transit?.durationMs ?? Number.POSITIVE_INFINITY)
         );
+      }
+      if (sort === "research") {
+        const diff = Number(!!b.researchSchool) - Number(!!a.researchSchool);
+        return diff !== 0 ? diff : a.name.localeCompare(b.name, "ko");
+      }
+      if (sort === "lead") {
+        const diff = Number(b.leadSchool) - Number(a.leadSchool);
+        return diff !== 0 ? diff : a.name.localeCompare(b.name, "ko");
+      }
+      if (sort === "newSchool") {
+        const diff = Number(!!b.newSchool) - Number(!!a.newSchool);
+        if (diff !== 0) return diff;
+        const yearDiff = (a.newSchool?.year ?? 0) - (b.newSchool?.year ?? 0);
+        return yearDiff !== 0 ? yearDiff : a.name.localeCompare(b.name, "ko");
       }
       return (
         (a.straightDistanceMeters ?? Number.POSITIVE_INFINITY) -

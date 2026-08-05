@@ -3,7 +3,15 @@
 import { formatDistance, formatDuration } from "@/lib/geo";
 import type { SchoolListItem } from "@/types/school";
 
-type SortKey = "name" | "straight" | "car" | "transit" | "classCount";
+type SortKey =
+  | "name"
+  | "straight"
+  | "car"
+  | "transit"
+  | "classCount"
+  | "research"
+  | "lead"
+  | "newSchool";
 
 interface Props {
   schools: SchoolListItem[];
@@ -64,6 +72,9 @@ export function SchoolList({
             <option value="transit">대중교통</option>
             <option value="classCount">학급수</option>
             <option value="name">학교명순</option>
+            <option value="research">연구학교</option>
+            <option value="lead">선도학교</option>
+            <option value="newSchool">신설학교</option>
           </select>
           <button
             type="button"
