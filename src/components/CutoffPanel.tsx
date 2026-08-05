@@ -38,6 +38,7 @@ function formatEntry(entry: CutoffEntry | undefined): {
 export function CutoffPanel({ office }: Props) {
   const [years, setYears] = useState<number[]>([]);
   const [entries, setEntries] = useState<CutoffEntry[]>([]);
+  const [resolvedOffice, setResolvedOffice] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
@@ -45,16 +46,31 @@ export function CutoffPanel({ office }: Props) {
       // eslint-disable-next-line react-hooks/set-state-in-effect
       setYears([]);
       setEntries([]);
+      setResolvedOffice(null);
       return;
     }
+    let ignore = false;
     setLoading(true);
     fetch(`/api/cutoffs?office=${encodeURIComponent(office)}`)
       .then((r) => r.json())
       .then((d) => {
+        if (ignore) return;
         setYears(d.years ?? []);
         setEntries(d.entries ?? []);
+        setResolvedOffice(d.office ?? null);
       })
-      .finally(() => setLoading(false));
+      .catch(() => {
+        if (ignore) return;
+        setYears([]);
+        setEntries([]);
+        setResolvedOffice(null);
+      })
+      .finally(() => {
+        if (!ignore) setLoading(false);
+      });
+    return () => {
+      ignore = true;
+    };
   }, [office]);
 
   if (!office) return null;
@@ -68,7 +84,7 @@ export function CutoffPanel({ office }: Props) {
   return (
     <div className="rounded-lg border border-slate-200 bg-white p-2.5">
       <p className="mb-1.5 text-xs font-semibold text-slate-700">
-        {office} 청간전보 커트라인
+        {resolvedOffice ?? office} 청간전보 커트라인
       </p>
       <table className="w-full text-xs">
         <thead>

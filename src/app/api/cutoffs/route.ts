@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { getCutoffsFile, getRegionCutoffs } from "@/lib/cutoffs";
+import { getCutoffsFile, getRegionCutoffs, resolveOffice } from "@/lib/cutoffs";
 
 export async function GET(req: NextRequest) {
   const office = req.nextUrl.searchParams.get("office");
@@ -9,6 +9,11 @@ export async function GET(req: NextRequest) {
     return NextResponse.json({ years: file.years, regions: file.regions });
   }
 
-  const entries = getRegionCutoffs(office) ?? [];
-  return NextResponse.json({ years: file.years, entries });
+  const resolved = resolveOffice(office);
+  const entries = resolved ? getRegionCutoffs(resolved) ?? [] : [];
+  return NextResponse.json({
+    years: file.years,
+    entries,
+    office: resolved ?? office,
+  });
 }
