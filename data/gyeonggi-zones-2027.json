@@ -558,13 +558,6 @@
       "city": "수원",
       "office": "수원",
       "zone": "갑",
-      "schoolName": "신풍분교장",
-      "isBranch": true
-    },
-    {
-      "city": "수원",
-      "office": "수원",
-      "zone": "갑",
       "schoolName": "수원가온"
     },
     {
@@ -644,12 +637,6 @@
       "office": "성남",
       "zone": "갑",
       "schoolName": "중원"
-    },
-    {
-      "city": "성남",
-      "office": "성남",
-      "zone": "갑",
-      "schoolName": "대원"
     },
     {
       "city": "성남",
@@ -1867,19 +1854,6 @@
       "city": "부천",
       "office": "부천",
       "zone": "갑",
-      "schoolName": "부천덕산"
-    },
-    {
-      "city": "부천",
-      "office": "부천",
-      "zone": "갑",
-      "schoolName": "대장분교장",
-      "isBranch": true
-    },
-    {
-      "city": "부천",
-      "office": "부천",
-      "zone": "갑",
       "schoolName": "부천대명"
     },
     {
@@ -2499,12 +2473,6 @@
       "city": "안산",
       "office": "안산",
       "zone": "갑",
-      "schoolName": "경수"
-    },
-    {
-      "city": "안산",
-      "office": "안산",
-      "zone": "갑",
       "schoolName": "성안"
     },
     {
@@ -3110,13 +3078,6 @@
       "city": "평택",
       "office": "평택",
       "zone": "을",
-      "schoolName": "신영분교장",
-      "isBranch": true
-    },
-    {
-      "city": "평택",
-      "office": "평택",
-      "zone": "을",
       "schoolName": "원정"
     },
     {
@@ -3466,13 +3427,6 @@
       "office": "고양",
       "zone": "갑",
       "schoolName": "백마"
-    },
-    {
-      "city": "고양",
-      "office": "고양",
-      "zone": "갑",
-      "schoolName": "장항분교장",
-      "isBranch": true
     },
     {
       "city": "고양",
@@ -4379,13 +4333,6 @@
       "city": "남양주",
       "office": "구리남양주",
       "zone": "을",
-      "schoolName": "녹촌분교장",
-      "isBranch": true
-    },
-    {
-      "city": "남양주",
-      "office": "구리남양주",
-      "zone": "을",
       "schoolName": "가곡"
     },
     {
@@ -4608,13 +4555,6 @@
       "city": "여주",
       "office": "여주",
       "zone": "을",
-      "schoolName": "운암분교장",
-      "isBranch": true
-    },
-    {
-      "city": "여주",
-      "office": "여주",
-      "zone": "을",
       "schoolName": "상품"
     },
     {
@@ -4651,18 +4591,6 @@
       "city": "여주",
       "office": "여주",
       "zone": "을",
-      "schoolName": "점동(안평분교장"
-    },
-    {
-      "city": "여주",
-      "office": "여주",
-      "zone": "을",
-      "schoolName": "뇌곡분교장"
-    },
-    {
-      "city": "여주",
-      "office": "여주",
-      "zone": "을",
       "schoolName": "점봉"
     },
     {
@@ -4684,20 +4612,6 @@
       "schoolName": "북내도전분교장",
       "subZone": "다",
       "isBranch": true
-    },
-    {
-      "city": "여주",
-      "office": "여주",
-      "zone": "병",
-      "schoolName": "북내주암분교장",
-      "subZone": "라"
-    },
-    {
-      "city": "여주",
-      "office": "여주",
-      "zone": "병",
-      "schoolName": "이포하호분교장",
-      "subZone": "라"
     },
     {
       "city": "화성",
@@ -5075,21 +4989,7 @@
       "city": "화성",
       "office": "화성오산",
       "zone": "을",
-      "schoolName": "장일분교장",
-      "isBranch": true
-    },
-    {
-      "city": "화성",
-      "office": "화성오산",
-      "zone": "을",
       "schoolName": "화성장안"
-    },
-    {
-      "city": "화성",
-      "office": "화성오산",
-      "zone": "을",
-      "schoolName": "석포분교장",
-      "isBranch": true
     },
     {
       "city": "화성",
@@ -5385,14 +5285,6 @@
       "office": "화성오산",
       "zone": "을",
       "schoolName": "봉담2-153("
-    },
-    {
-      "city": "화성",
-      "office": "화성오산",
-      "zone": "병",
-      "schoolName": "서신제부분교장",
-      "subZone": "다",
-      "isBranch": true
     },
     {
       "city": "오산",
@@ -5747,12 +5639,6 @@
       "office": "파주",
       "zone": "을",
       "schoolName": "천현"
-    },
-    {
-      "city": "파주",
-      "office": "파주",
-      "zone": "을",
-      "schoolName": "법원"
     },
     {
       "city": "파주",
@@ -6322,23 +6208,10 @@
       "schoolName": "서부"
     },
     {
-      "city": "하남",
-      "office": "광주하남",
-      "zone": "을",
-      "schoolName": "고골"
-    },
-    {
       "city": "연천",
       "office": "연천",
       "zone": "을",
       "schoolName": "전곡"
-    },
-    {
-      "city": "연천",
-      "office": "연천",
-      "zone": "을",
-      "schoolName": "적동분교장",
-      "isBranch": true
     },
     {
       "city": "연천",
@@ -6380,13 +6253,6 @@
       "city": "연천",
       "office": "연천",
       "zone": "을",
-      "schoolName": "고문분교장",
-      "isBranch": true
-    },
-    {
-      "city": "연천",
-      "office": "연천",
-      "zone": "을",
       "schoolName": "상리"
     },
     {
@@ -6416,14 +6282,6 @@
       "zone": "병",
       "schoolName": "연천왕산",
       "subZone": "다"
-    },
-    {
-      "city": "연천",
-      "office": "연천",
-      "zone": "병",
-      "schoolName": "마전분교장",
-      "subZone": "다",
-      "isBranch": true
     },
     {
       "city": "연천",
@@ -6544,30 +6402,6 @@
       "city": "포천",
       "office": "포천",
       "zone": "을",
-      "schoolName": "보장"
-    },
-    {
-      "city": "포천",
-      "office": "포천",
-      "zone": "을",
-      "schoolName": "영중"
-    },
-    {
-      "city": "포천",
-      "office": "포천",
-      "zone": "을",
-      "schoolName": "영평"
-    },
-    {
-      "city": "포천",
-      "office": "포천",
-      "zone": "을",
-      "schoolName": "금주"
-    },
-    {
-      "city": "포천",
-      "office": "포천",
-      "zone": "을",
       "schoolName": "일동"
     },
     {
@@ -6617,20 +6451,6 @@
       "office": "포천",
       "zone": "을",
       "schoolName": "포담"
-    },
-    {
-      "city": "포천",
-      "office": "포천",
-      "zone": "병",
-      "schoolName": "포천삼정",
-      "subZone": "라"
-    },
-    {
-      "city": "포천",
-      "office": "포천",
-      "zone": "병",
-      "schoolName": "중리",
-      "subZone": "라"
     },
     {
       "city": "가평",
@@ -6715,14 +6535,6 @@
       "city": "가평",
       "office": "가평",
       "zone": "병",
-      "schoolName": "목동명지분교장",
-      "subZone": "나",
-      "isBranch": true
-    },
-    {
-      "city": "가평",
-      "office": "가평",
-      "zone": "병",
       "schoolName": "미원장락분교장",
       "subZone": "라",
       "isBranch": true
@@ -6798,13 +6610,6 @@
       "city": "양평",
       "office": "양평",
       "zone": "을",
-      "schoolName": "단석분교장",
-      "isBranch": true
-    },
-    {
-      "city": "양평",
-      "office": "양평",
-      "zone": "을",
       "schoolName": "곡수"
     },
     {
@@ -6865,13 +6670,6 @@
       "city": "양평",
       "office": "양평",
       "zone": "을",
-      "schoolName": "일신분교장",
-      "isBranch": true
-    },
-    {
-      "city": "양평",
-      "office": "양평",
-      "zone": "을",
       "schoolName": "수입"
     },
     {
@@ -6888,14 +6686,6 @@
       "zone": "병",
       "schoolName": "정배",
       "subZone": "라"
-    },
-    {
-      "city": "양평",
-      "office": "양평",
-      "zone": "병",
-      "schoolName": "서종정배분교장",
-      "subZone": "라",
-      "isBranch": true
     },
     {
       "city": "이천",
@@ -6962,13 +6752,6 @@
       "office": "이천",
       "zone": "을",
       "schoolName": "부발"
-    },
-    {
-      "city": "이천",
-      "office": "이천",
-      "zone": "을",
-      "schoolName": "백록분교장",
-      "isBranch": true
     },
     {
       "city": "이천",
@@ -7047,13 +6830,6 @@
       "office": "이천",
       "zone": "을",
       "schoolName": "진가"
-    },
-    {
-      "city": "이천",
-      "office": "이천",
-      "zone": "을",
-      "schoolName": "모가분교장",
-      "isBranch": true
     },
     {
       "city": "이천",
@@ -7557,13 +7333,6 @@
       "city": "용인",
       "office": "용인",
       "zone": "을",
-      "schoolName": "남곡분교장",
-      "isBranch": true
-    },
-    {
-      "city": "용인",
-      "office": "용인",
-      "zone": "을",
       "schoolName": "남사"
     },
     {
@@ -7638,13 +7407,6 @@
       "office": "용인",
       "zone": "을",
       "schoolName": "원삼"
-    },
-    {
-      "city": "용인",
-      "office": "용인",
-      "zone": "을",
-      "schoolName": "두창분교장",
-      "isBranch": true
     },
     {
       "city": "용인",
@@ -7824,12 +7586,6 @@
       "city": "안성",
       "office": "안성",
       "zone": "을",
-      "schoolName": "보개"
-    },
-    {
-      "city": "안성",
-      "office": "안성",
-      "zone": "을",
       "schoolName": "가율분교장",
       "isBranch": true
     },
@@ -7838,12 +7594,6 @@
       "office": "안성",
       "zone": "을",
       "schoolName": "동신"
-    },
-    {
-      "city": "안성",
-      "office": "안성",
-      "zone": "을",
-      "schoolName": "서삼"
     },
     {
       "city": "안성",
@@ -7928,13 +7678,6 @@
       "city": "안성",
       "office": "안성",
       "zone": "을",
-      "schoolName": "성은분교장",
-      "isBranch": true
-    },
-    {
-      "city": "안성",
-      "office": "안성",
-      "zone": "을",
       "schoolName": "일죽"
     },
     {
@@ -7978,12 +7721,6 @@
       "office": "안성",
       "zone": "을",
       "schoolName": "죽화"
-    },
-    {
-      "city": "안성",
-      "office": "안성",
-      "zone": "을",
-      "schoolName": "방초"
     },
     {
       "city": "안성",

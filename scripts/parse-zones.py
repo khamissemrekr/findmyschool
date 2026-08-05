@@ -96,12 +96,62 @@ EXPECTED = {
 }
 
 
+CLOSED_OPEN = ""  # 밑줄(폐교/휴교 표기) 구간 시작 마커
+CLOSED_CLOSE = ""  # 밑줄(폐교/휴교 표기) 구간 끝 마커
+
+
 def extract_text_from_hwpx(path: Path) -> str:
+    """밑줄(hh:underline) 서식이 적용된 학교명은 폐교/휴교 표기이므로
+    CLOSED_OPEN/CLOSE 마커로 감싸 parse_school_list에서 제외할 수 있게 한다."""
     with zipfile.ZipFile(path) as zf:
         raw = zf.read("Contents/section0.xml").decode("utf-8", "ignore")
-    texts = re.findall(r"<hp:t[^>]*>(.*?)</hp:t>", raw)
-    parts = [html.unescape(re.sub(r"<[^>]+>", "", t)) for t in texts]
+        header = zf.read("Contents/header.xml").decode("utf-8", "ignore")
+
+    closed_char_ids = set()
+    for m in re.finditer(r'<hh:charPr id="(\d+)"[^>]*>(.*?)</hh:charPr>', header, re.S):
+        cid, body = m.groups()
+        u = re.search(r'<hh:underline type="([^"]+)"', body)
+        if u and u.group(1) != "NONE":
+            closed_char_ids.add(cid)
+
+    parts = []
+    for run_m in re.finditer(r'<hp:run charPrIDRef="(\d+)"[^>]*>(.*?)</hp:run>', raw, re.S):
+        cid, body = run_m.groups()
+        texts = re.findall(r"<hp:t[^>]*>(.*?)</hp:t>", body)
+        joined = "".join(html.unescape(re.sub(r"<[^>]+>", "", t)) for t in texts)
+        if not joined:
+            continue
+        if cid in closed_char_ids:
+            joined = CLOSED_OPEN + joined + CLOSED_CLOSE
+        parts.append(joined)
     return " ".join(parts)
+
+
+CLOSED_NAME_RE = re.compile(r"^[가-힣()·,、]+$")
+ZONE_LABELS = {"갑", "을", "병", "가", "나", "다", "라"}
+
+
+def resolve_closed_markers(text: str) -> tuple[str, set[str]]:
+    """밑줄 구간 중 숫자·서술문 등은 표 서식(합계 칸 등)일 뿐이므로 마커를 지우고,
+    한글로만 이루어진 짧은 구간(실제 학교명)만 마커를 남겨 parse_school_list에서 제외한다."""
+    closed_names: set[str] = set()
+
+    def repl(m: re.Match) -> str:
+        inner = m.group(1)
+        stripped = re.sub(r"\s+", "", inner)
+        if (
+            stripped
+            and len(stripped) <= 20
+            and CLOSED_NAME_RE.match(stripped)
+            and stripped not in ZONE_LABELS
+        ):
+            closed_names.add(stripped)
+            return CLOSED_OPEN + inner + CLOSED_CLOSE
+        return inner
+
+    pattern = re.escape(CLOSED_OPEN) + r"(.*?)" + re.escape(CLOSED_CLOSE)
+    new_text = re.sub(pattern, repl, text, flags=re.S)
+    return new_text, closed_names
 
 
 def find_cities(text: str):
@@ -123,6 +173,7 @@ def last_city_in(text: str):
 
 def make(city, zone, sub, name, is_branch):
     name = re.sub(r"\s+", "", name)
+    name = name.replace(CLOSED_OPEN, "").replace(CLOSED_CLOSE, "")
     if not name or "교육지원청" in name or "인사구역" in name or "학교수" in name:
         return None
     e = {"city": city, "office": OFFICE.get(city, city), "zone": zone, "schoolName": name}
@@ -145,18 +196,23 @@ def parse_school_list(entries, text, city, zone, sub=None):
         main = re.sub(r"\([^)]*분교[^)]*\)", "", item).strip().strip("() ").strip()
         main = re.sub(r"\s+", "", main)
         main = re.sub(r"\d+(\(\d+\))?$", "", main)
-        if main:
+        if main and CLOSED_OPEN not in main:
             e = make(city, zone, sub, main, False)
             if e:
                 entries.append(e)
         for b in branches:
             for bb in re.split(r"[,、]", b):
-                bb = re.sub(r"\s+", "", bb.strip())
+                bb = bb.strip()
+                if CLOSED_OPEN in bb:
+                    continue
+                bb = re.sub(r"\s+", "", bb)
                 if bb:
                     e = make(city, zone, sub, bb, True)
                     if e:
                         entries.append(e)
         if not main and not branches:
+            if CLOSED_OPEN in item:
+                continue
             m = re.fullmatch(r"\((.+)\)", item)
             raw_name = m.group(1) if m else item
             raw_name = re.sub(r"\s+", "", raw_name)
@@ -238,11 +294,13 @@ def main():
     args = parser.parse_args()
 
     text = extract_text_from_hwpx(Path(args.hwpx))
+    text, closed_names = resolve_closed_markers(text)
     idx = text.find("초등학교 인사구역 현황표")
     idx2 = text.find("유치원 인사구역 현황표")
     if idx < 0 or idx2 < 0:
         raise SystemExit("별표1 구간을 찾지 못했습니다.")
     schools = parse_zones(text[idx:idx2])
+    print(f"밑줄(폐교/휴교 표기) 감지 {len(closed_names)}건, 목록에서 제외: {sorted(closed_names)}")
     by_city = Counter(e["city"] for e in schools)
     print(f"total={len(schools)}")
     for c, exp in EXPECTED.items():
