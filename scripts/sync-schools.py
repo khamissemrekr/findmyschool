@@ -51,6 +51,46 @@ CITY_BBOX = {
 }
 
 
+def normalize_tel(tel: str | None) -> str | None:
+    """OSM/NEIS 원본은 국제전화 코드, 괄호, 하이픈 누락, 내선 병기 등 형식이 제각각 —
+    지역번호-국번-번호(0XX-XXX(X)-XXXX) 형식으로 정규화."""
+    if not tel:
+        return tel
+    t = tel.strip()
+    t = re.sub(r"^\+?82[-\s]?(?=\d)", "0", t)  # 국제전화 코드 제거
+    t = re.sub(r"[()]", "", t)  # 괄호 제거: (031) 391-0166
+    parts = t.split()
+    if len(parts) > 1 and all(re.match(r"^0\d", p) for p in parts):
+        t = parts[0]  # 공백으로 나열된 복수 번호는 첫 번호만 사용
+    t = t.split(",")[0].strip()  # 쉼표 뒤 내선/추가회선 표기 제거
+    t = re.sub(r"\s*-\s*", "-", t)
+    t = re.sub(r"\s+", "", t)
+
+    digits = t.replace("-", "")
+    if not digits.isdigit():
+        return t
+
+    if digits.startswith("02"):
+        area, rest = digits[:2], digits[2:]
+    elif re.match(r"^050\d", digits):
+        area, rest = digits[:4], digits[4:]
+    else:
+        area, rest = digits[:3], digits[3:]
+
+    if len(rest) == 8:
+        mid, last = rest[:4], rest[4:]
+    elif len(rest) == 7:
+        mid, last = rest[:3], rest[3:]
+    elif len(rest) > 4:
+        mid, last = rest[:-4], rest[-4:]
+    else:
+        mid, last = "", rest
+
+    if not mid:
+        return f"{area}-{last}" if last else area
+    return f"{area}-{mid}-{last}"
+
+
 def norm_name(n: str) -> str:
     n = (n or "").strip().replace(" ", "")
     n = re.sub(r"\(.*?\)", "", n)
@@ -237,7 +277,7 @@ def main():
             "shortName": z["schoolName"],
             "address": (address or None),
             "homepage": (neis or {}).get("HMPG_ADRES") or (pick or {}).get("website"),
-            "tel": (neis or {}).get("ORG_TELNO") or (pick or {}).get("phone"),
+            "tel": normalize_tel((neis or {}).get("ORG_TELNO") or (pick or {}).get("phone")),
             "lat": lat,
             "lng": lng,
             "city": z["city"],
