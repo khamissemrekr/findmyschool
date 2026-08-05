@@ -1,0 +1,155 @@
+{
+  "years": [2022, 2023, 2025, 2026],
+  "regions": {
+    "가평": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "특만기", "rank": 2 },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "고양": [
+      { "year": 2022, "status": "특만기", "rank": 4 },
+      { "year": 2023, "status": "특만기", "rank": 2 },
+      { "year": 2025, "status": "특만기", "rank": 3 },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "광명": [
+      { "year": 2022, "cutoff": "4.06", "zone": "미" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "cutoff": "4.06", "zone": "수" },
+      { "year": 2026, "cutoff": "5.04", "zone": "미" }
+    ],
+    "광주하남": [
+      { "year": 2022, "status": "특만기", "rank": 1 },
+      { "year": 2023, "status": "특만기", "rank": 1 },
+      { "year": 2025, "cutoff": "3.04", "zone": "미" },
+      { "year": 2026, "cutoff": "4.00", "zone": "수" }
+    ],
+    "구리남양주": [
+      { "year": 2022, "cutoff": "3.00", "zone": "미" },
+      { "year": 2023, "cutoff": "5.01", "zone": "수" },
+      { "year": 2025, "cutoff": "4.09", "zone": "우" },
+      { "year": 2026, "cutoff": "6.04", "zone": "미" }
+    ],
+    "군포의왕": [
+      { "year": 2022, "cutoff": "7.01", "zone": "수" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "cutoff": "2.03", "zone": "수" },
+      { "year": 2026, "cutoff": "4.03", "zone": "수" }
+    ],
+    "김포": [
+      { "year": 2022, "status": "특만기", "rank": 1 },
+      { "year": 2023, "status": "특만기", "rank": 1 },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "cutoff": "2.00", "zone": "미" }
+    ],
+    "동두천양주": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "부천": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "성남": [
+      { "year": 2022, "cutoff": "3.03", "zone": "수" },
+      { "year": 2023, "cutoff": "4.04", "zone": "미" },
+      { "year": 2025, "cutoff": "5.08", "zone": "수" },
+      { "year": 2026, "cutoff": "6.03", "zone": "수" }
+    ],
+    "수원": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "cutoff": "2.06", "zone": "우" },
+      { "year": 2026, "cutoff": "4.03", "zone": "우" }
+    ],
+    "시흥": [
+      { "year": 2022, "status": "특만기", "rank": 1 },
+      { "year": 2023, "status": "특만기", "rank": 3 },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "cutoff": "2.00", "zone": "미" }
+    ],
+    "안산": [
+      { "year": 2022, "status": "특만기", "rank": 4 },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "안성": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "안양과천": [
+      { "year": 2022, "cutoff": "3.03", "zone": "미" },
+      { "year": 2023, "cutoff": "4.07", "zone": "미" },
+      { "year": 2025, "cutoff": "6.04", "zone": "미" },
+      { "year": 2026, "cutoff": "7.07", "zone": "미" }
+    ],
+    "양평": [
+      { "year": 2022, "status": "특만기", "rank": 3 },
+      { "year": 2023, "status": "특만기", "rank": 3 },
+      { "year": 2025, "status": "특만기", "rank": 2 },
+      { "year": 2026, "status": "일반", "rank": 2 }
+    ],
+    "여주": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "연천": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "용인": [
+      { "year": 2022, "cutoff": "4.11", "zone": "우" },
+      { "year": 2023, "cutoff": "5.04", "zone": "수" },
+      { "year": 2025, "cutoff": "4.03", "zone": "수" },
+      { "year": 2026, "cutoff": "5.00", "zone": "수" }
+    ],
+    "의정부": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "이천": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "특만기", "rank": 4 },
+      { "year": 2025, "status": "특만기", "rank": 2 },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "파주": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "평택": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "포천": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "전원수용" },
+      { "year": 2026, "status": "전원수용" }
+    ],
+    "화성오산": [
+      { "year": 2022, "status": "신규" },
+      { "year": 2023, "status": "신규" },
+      { "year": 2025, "status": "특만기", "rank": 1 },
+      { "year": 2026, "status": "전원수용" }
+    ]
+  }
+}
