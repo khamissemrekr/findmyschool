@@ -1,6 +1,7 @@
 import { readFileSync } from "fs";
 import path from "path";
 import type { CitySummary, School, SchoolsFile } from "@/types/school";
+import { getResearchSchool } from "@/lib/research-schools";
 
 let cached: SchoolsFile | null = null;
 let cachedAt = 0;
@@ -25,6 +26,7 @@ function withStaffDefaults(school: School): School {
     deptHeadCount: school.deptHeadCount ?? null,
     teacherCount: school.teacherCount ?? null,
     staffCount: school.staffCount ?? null,
+    researchSchool: getResearchSchool(school.id),
   };
 }
 

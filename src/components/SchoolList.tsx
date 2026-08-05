@@ -85,6 +85,14 @@ export function SchoolList({
                     <span className="text-sm font-medium text-slate-900">
                       {s.name}
                     </span>
+                    {s.researchSchool && (
+                      <span
+                        title={s.researchSchool.task}
+                        className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-violet-100 text-violet-800"
+                      >
+                        연구학교
+                      </span>
+                    )}
                     <span className="text-[11px] text-slate-500">
                       {[
                         s.classCount != null || s.studentCount != null

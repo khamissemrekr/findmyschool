@@ -11,6 +11,24 @@ export interface ZoneSchool {
   plannedNew?: boolean;
 }
 
+export interface ResearchSchoolInfo {
+  /** 연구과제명 */
+  task: string;
+  /** 지정기간 원문, 예: "2년(2026.03.01. ~ 2028.02.29.)" */
+  period: string;
+  /** 정책 / 시범 */
+  kind: string;
+  /** 교육부 요청 / 타부처 요청 / 교육감 자체 지정 */
+  source: string;
+}
+
+export interface ResearchSchoolsFile {
+  year: number;
+  source: string;
+  /** 학교 id -> 연구학교 정보 */
+  schools: Record<string, ResearchSchoolInfo>;
+}
+
 export interface School {
   id: string;
   schoolCode: string | null;
@@ -40,6 +58,8 @@ export interface School {
   teacherCount: number | null;
   /** 목록용 교원수: 교장+교감+부장+교사 */
   staffCount: number | null;
+  /** 2026학년도 연구학교 지정 정보 (미지정이면 null) */
+  researchSchool: ResearchSchoolInfo | null;
 }
 
 export interface SchoolsFile {

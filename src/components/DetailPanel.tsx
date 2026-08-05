@@ -77,8 +77,13 @@ export function DetailPanel({
               {school.city} · {school.zone}
               {school.subZone ? `/${school.subZone}` : ""} 급지
             </p>
-            <h2 className="text-lg font-semibold text-slate-900">
+            <h2 className="flex flex-wrap items-center gap-1.5 text-lg font-semibold text-slate-900">
               {school.name}
+              {school.researchSchool && (
+                <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-violet-100 text-violet-800">
+                  연구학교
+                </span>
+              )}
             </h2>
           </div>
           <button
@@ -147,6 +152,22 @@ export function DetailPanel({
             <dt className="text-xs text-slate-500">전화</dt>
             <dd>{school.tel ?? "—"}</dd>
           </div>
+          {school.researchSchool && (
+            <div className="rounded-lg bg-violet-50 p-2.5">
+              <dt className="flex items-center gap-1.5 text-xs font-medium text-violet-800">
+                <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-violet-100 text-violet-800">
+                  연구학교
+                </span>
+                {school.researchSchool.source} · {school.researchSchool.kind}
+              </dt>
+              <dd className="mt-1.5 space-y-1 text-slate-800">
+                <p>{school.researchSchool.task}</p>
+                <p className="text-[11px] text-slate-500">
+                  운영 기간 {school.researchSchool.period}
+                </p>
+              </dd>
+            </div>
+          )}
         </dl>
       </div>
 
