@@ -12,7 +12,17 @@ export function ReferencePopup({ onClose }: Props) {
       <dl className="space-y-2 text-xs text-slate-600">
         <div>
           <dt className="font-medium text-slate-800">급지</dt>
-          <dd>2027 경기도 인사관리세부기준 별표1</dd>
+          <dd>
+            <a
+              href="https://www.goe.go.kr/goe/na/ntt/selectNttInfo.do?bbsId=2675&nttSn=2361915&mi=10961"
+              target="_blank"
+              rel="noreferrer"
+              className="text-emerald-700 underline"
+            >
+              2027 경기도교육공무원인사관리세부기준
+            </a>{" "}
+            별표1
+          </dd>
         </div>
         <div>
           <dt className="font-medium text-slate-800">좌표</dt>
