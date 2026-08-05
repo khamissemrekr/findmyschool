@@ -3,6 +3,7 @@ import path from "path";
 import type { CitySummary, School, SchoolsFile } from "@/types/school";
 import { getResearchSchool } from "@/lib/research-schools";
 import { isLeadSchool } from "@/lib/lead-schools";
+import { getNewSchool } from "@/lib/new-schools";
 
 let cached: SchoolsFile | null = null;
 let cachedAt = 0;
@@ -29,6 +30,7 @@ function withStaffDefaults(school: School): School {
     staffCount: school.staffCount ?? null,
     researchSchool: getResearchSchool(school.id),
     leadSchool: isLeadSchool(school.id),
+    newSchool: getNewSchool(school.id),
   };
 }
 

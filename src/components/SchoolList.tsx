@@ -31,6 +31,15 @@ function zoneBadge(zone: string, subZone?: string) {
   );
 }
 
+function newSchoolBadge(newSchool: { year: number; planned?: boolean }) {
+  const label = `${String(newSchool.year).slice(2)}년신설${newSchool.planned ? "(예정)" : ""}`;
+  return (
+    <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-orange-100 text-orange-800">
+      {label}
+    </span>
+  );
+}
+
 export function SchoolList({
   schools,
   selectedId,
@@ -98,6 +107,7 @@ export function SchoolList({
                         선도학교
                       </span>
                     )}
+                    {s.newSchool && newSchoolBadge(s.newSchool)}
                     <span className="text-[11px] text-slate-500">
                       {[
                         s.classCount != null || s.studentCount != null

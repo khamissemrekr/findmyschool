@@ -89,6 +89,12 @@ export function DetailPanel({
                   선도학교
                 </span>
               )}
+              {school.newSchool && (
+                <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-orange-100 text-orange-800">
+                  {String(school.newSchool.year).slice(2)}년신설
+                  {school.newSchool.planned ? "(예정)" : ""}
+                </span>
+              )}
             </h2>
           </div>
           <button
@@ -180,6 +186,18 @@ export function DetailPanel({
                   선도학교
                 </span>
                 2026년 AI·디지털 활용 선도학교
+              </dt>
+            </div>
+          )}
+          {school.newSchool && (
+            <div className="rounded-lg bg-orange-50 p-2.5">
+              <dt className="flex items-center gap-1.5 text-xs font-medium text-orange-800">
+                <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-orange-100 text-orange-800">
+                  {String(school.newSchool.year).slice(2)}년신설
+                  {school.newSchool.planned ? "(예정)" : ""}
+                </span>
+                {school.newSchool.year}학년도 신설교
+                {school.newSchool.planned ? " (2026.5. 기준 신설예정, 미확정)" : ""}
               </dt>
             </div>
           )}

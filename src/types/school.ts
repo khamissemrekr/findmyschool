@@ -62,12 +62,28 @@ export interface School {
   researchSchool: ResearchSchoolInfo | null;
   /** 2026년 AI·디지털 활용 선도학교 지정 여부 */
   leadSchool: boolean;
+  /** 신설교(원) 지정 정보 (해당 없으면 null) */
+  newSchool: NewSchoolInfo | null;
 }
 
 export interface LeadSchoolsFile {
   year: number;
   source: string;
   schoolIds: string[];
+}
+
+export interface NewSchoolInfo {
+  /** 신설(예정) 학년도, 예: 2025 */
+  year: number;
+  /** 2027학년도 신설예정교(2026.5. 기준, 미확정)면 true */
+  planned?: boolean;
+}
+
+export interface NewSchoolsFile {
+  source: string;
+  note: string;
+  /** 학교 id -> 신설교 정보 */
+  schools: Record<string, NewSchoolInfo>;
 }
 
 export interface SchoolsFile {
