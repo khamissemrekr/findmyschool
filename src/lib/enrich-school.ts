@@ -143,7 +143,9 @@ async function loadSchoolInfoApi<T extends { SCHUL_NM?: string }>(
   const sggCodes = GYEONGGI_SGG[city];
   if (!apiKey || !sggCodes?.length) return [];
 
-  const year = String(new Date().getFullYear() - 1);
+  // 학교알리미 공시는 매년 갱신되어 당해년도 데이터가 가장 최신(신설교 포함)이므로
+  // 당해년도부터 시도하고, 공시 전(연초)이면 fetchOneSggList가 전년도로 폴백한다.
+  const year = String(new Date().getFullYear());
   const cacheKey = `schoolinfo:${apiType}:${sggCodes.join(",")}:${year}`;
   const cached = cacheGet<T[]>(cacheKey);
   if (cached) return cached;
