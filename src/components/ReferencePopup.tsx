@@ -22,6 +22,20 @@ export function ReferencePopup({ onClose }: Props) {
           <dt className="font-medium text-slate-800">경로</dt>
           <dd>카카오(자동차·대중교통)</dd>
         </div>
+        <div>
+          <dt className="font-medium text-slate-800">사용 API</dt>
+          <dd>
+            <ul className="list-disc space-y-0.5 pl-4">
+              <li>카카오맵 JS SDK — 지도 표시</li>
+              <li>카카오 로컬 API — 주소/키워드 검색</li>
+              <li>카카오모빌리티 길찾기 API — 자동차 경로</li>
+              <li>카카오맵 대중교통 길찾기 API — 버스·지하철 경로</li>
+              <li>OSRM — 정류장 접근 도보 구간</li>
+              <li>NEIS 학급운영정보 Open API — 학급·학생 수</li>
+              <li>학교알리미 Open API — 학급·학생 수 보강</li>
+            </ul>
+          </dd>
+        </div>
       </dl>
     </InfoPopup>
   );
