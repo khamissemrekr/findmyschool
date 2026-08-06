@@ -18,6 +18,7 @@ export function ContactPopup({ onClose }: Props) {
         </a>
         로 연락 주세요.
       </p>
+      <p className="mt-2 text-[11px] text-slate-400">최근 업데이트: 2026-08-06</p>
     </InfoPopup>
   );
 }
