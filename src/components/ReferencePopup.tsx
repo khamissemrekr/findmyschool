@@ -46,7 +46,20 @@ export function ReferencePopup({ onClose }: Props) {
             </ul>
           </dd>
         </div>
+        <div>
+          <dt className="font-medium text-slate-800">연구학교</dt>
+          <dd>2026 연구학교 운영 현황(공개용).xlsx (경기도교육청)</dd>
+        </div>
+        <div>
+          <dt className="font-medium text-slate-800">선도학교</dt>
+          <dd>2026년 AI·디지털 활용 선도학교 선정 결과_경기 (경기도교육청)</dd>
+        </div>
       </dl>
+      <p className="mt-3 border-t border-slate-100 pt-3 text-[11px] leading-relaxed text-slate-500">
+        공개된 자료를 활용하였으며, 민감한 개인정보나 내부자료는 사용하거나
+        저장하지 않습니다. 자료에는 오류가 있을 수 있습니다. 오류 사항
+        발견시 제보해주시면 반영하겠습니다.
+      </p>
     </InfoPopup>
   );
 }

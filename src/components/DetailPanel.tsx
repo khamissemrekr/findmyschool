@@ -157,22 +157,24 @@ export function DetailPanel({
               ) : (
                 "—"
               )}
-              {school.schoolInfoUrl && (
-                <a
-                  href={school.schoolInfoUrl}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="mt-1 block text-xs text-emerald-700 underline"
-                >
-                  학교알리미 보기
-                </a>
-              )}
             </dd>
           </div>
           <div>
             <dt className="text-xs text-slate-500">전화</dt>
             <dd>{school.tel ?? "—"}</dd>
           </div>
+          {school.schoolInfoUrl && (
+            <div className="flex justify-end">
+              <a
+                href={school.schoolInfoUrl}
+                target="_blank"
+                rel="noreferrer"
+                className="rounded-md border border-emerald-600 px-3 py-1.5 text-xs font-medium text-emerald-700 hover:bg-emerald-50"
+              >
+                학교알리미에서 보기
+              </a>
+            </div>
+          )}
           {school.researchSchool && (
             <div className="rounded-lg bg-violet-50 p-2.5">
               <dt className="flex items-center gap-1.5 text-xs font-medium text-violet-800">
