@@ -167,7 +167,7 @@ export interface SchoolListItem extends School {
   transitSubway?: RouteResult | null;
 }
 
-export type CutoffStatus = "신규" | "전원수용" | "특만기" | "일반";
+export type CutoffStatus = "신규" | "전원수용" | "특만기" | "일반" | "타시도전입";
 
 export interface CutoffEntry {
   year: number;

@@ -32,6 +32,7 @@ function formatEntry(entry: CutoffEntry | undefined): {
   }
   if (entry.status === "전원수용") return { text: "전원 수용" };
   if (entry.status === "신규") return { text: "신규" };
+  if (entry.status === "타시도전입") return { text: "타시도전입" };
   return { text: "-" };
 }
 

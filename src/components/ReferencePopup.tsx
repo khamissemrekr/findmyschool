@@ -27,7 +27,7 @@ export function ReferencePopup({ onClose }: Props) {
         <div>
           <dt className="font-medium text-slate-800">지역별 커트라인</dt>
           <dd>
-            2022·2023.3.1.자 초등교사 정기전보 지역별 커트라인, 2025·2026.3.1.자
+            2022·2023.3.1.자 초등교사 정기전보 지역별 커트라인, 2024·2025·2026.3.1.자
             초등교사 청간전보 지역별 커트라인 (경기도교육청)
           </dd>
         </div>
