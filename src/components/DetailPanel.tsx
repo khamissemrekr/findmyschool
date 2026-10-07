@@ -89,6 +89,11 @@ export function DetailPanel({
                   선도학교
                 </span>
               )}
+              {school.aiFocusSchool && (
+                <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-indigo-100 text-indigo-800">
+                  AI중점학교({school.aiFocusSchool.type}유형)
+                </span>
+              )}
               {school.newSchool && (
                 <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-orange-100 text-orange-800">
                   {String(school.newSchool.year).slice(2)}년신설
@@ -198,6 +203,21 @@ export function DetailPanel({
                   선도학교
                 </span>
                 2026년 AI·디지털 활용 선도학교
+              </dt>
+            </div>
+          )}
+          {school.aiFocusSchool && (
+            <div className="rounded-lg bg-indigo-50 p-2.5">
+              <dt className="flex items-center gap-1.5 text-xs font-medium text-indigo-800">
+                <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-indigo-100 text-indigo-800">
+                  AI중점학교({school.aiFocusSchool.type}유형)
+                </span>
+                2026년 AI 중점학교 ·{" "}
+                {school.aiFocusSchool.type === 1
+                  ? "AI·정보교육 선도형"
+                  : school.aiFocusSchool.type === 2
+                    ? "AI·정보교육 중심형"
+                    : "문화확산형"}
               </dt>
             </div>
           )}

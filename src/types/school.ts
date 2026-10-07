@@ -62,6 +62,8 @@ export interface School {
   researchSchool: ResearchSchoolInfo | null;
   /** 2026년 AI·디지털 활용 선도학교 지정 여부 */
   leadSchool: boolean;
+  /** 2026년 AI 중점학교 선정 정보 (해당 없으면 null) */
+  aiFocusSchool: AiFocusSchoolInfo | null;
   /** 신설교(원) 지정 정보 (해당 없으면 null) */
   newSchool: NewSchoolInfo | null;
   /** 학교알리미(schoolinfo.go.kr) 상세 페이지 URL (없으면 null) */
@@ -78,6 +80,21 @@ export interface LeadSchoolsFile {
   year: number;
   source: string;
   schoolIds: string[];
+}
+
+/** AI 중점학교 유형: 1 AI·정보교육 선도형, 2 AI·정보교육 중심형, 3 문화확산형 */
+export type AiFocusType = 1 | 2 | 3;
+
+export interface AiFocusSchoolInfo {
+  type: AiFocusType;
+}
+
+export interface AiFocusSchoolsFile {
+  year: number;
+  source: string;
+  note: string;
+  /** 학교 id -> AI 중점학교 정보 */
+  schools: Record<string, AiFocusSchoolInfo>;
 }
 
 export interface NewSchoolInfo {

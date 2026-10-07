@@ -41,6 +41,12 @@ function zoneBadge(zone: string, subZone?: string) {
   );
 }
 
+const AI_FOCUS_TYPE_NAME: Record<number, string> = {
+  1: "AI·정보교육 선도형(1유형)",
+  2: "AI·정보교육 중심형(2유형)",
+  3: "문화확산형(3유형)",
+};
+
 function newSchoolBadge(newSchool: { year: number; planned?: boolean }) {
   const label = `${String(newSchool.year).slice(2)}년신설${newSchool.planned ? "(예정)" : ""}`;
   return (
@@ -120,6 +126,14 @@ export function SchoolList({
                     {s.leadSchool && (
                       <span className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-cyan-100 text-cyan-800">
                         선도학교
+                      </span>
+                    )}
+                    {s.aiFocusSchool && (
+                      <span
+                        title={AI_FOCUS_TYPE_NAME[s.aiFocusSchool.type]}
+                        className="rounded px-1.5 py-0.5 text-[11px] font-semibold bg-indigo-100 text-indigo-800"
+                      >
+                        AI중점학교({s.aiFocusSchool.type}유형)
                       </span>
                     )}
                     {s.newSchool && newSchoolBadge(s.newSchool)}
