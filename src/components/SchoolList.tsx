@@ -116,6 +116,9 @@ export function SchoolList({
                 <div>
                   <div className="flex flex-wrap items-center gap-1.5">
                     {zoneBadge(s.zone, s.subZone)}
+                    <span className="text-sm font-medium text-slate-900">
+                      {s.name}
+                    </span>
                     {s.promotionBonus && (
                       <span
                         title={promotionBonusWarning(s.promotionBonus) ?? undefined}
@@ -125,13 +128,10 @@ export function SchoolList({
                             : "text-slate-600"
                         }`}
                       >
-                        ({promotionBonusLabel(s.promotionBonus)})
+                        {promotionBonusLabel(s.promotionBonus)}
                         {promotionBonusWarning(s.promotionBonus) ? "※" : ""}
                       </span>
                     )}
-                    <span className="text-sm font-medium text-slate-900">
-                      {s.name}
-                    </span>
                     {s.researchSchool && (
                       <span
                         title={s.researchSchool.task}

@@ -83,6 +83,8 @@ export function AppShell() {
   const [referenceOpen, setReferenceOpen] = useState(false);
   const [contactOpen, setContactOpen] = useState(false);
   const [usageGuideOpen, setUsageGuideOpen] = useState(false);
+  // 초기화 시 OriginSearch 내부 입력값까지 비우기 위해 key 로 다시 마운트한다.
+  const [resetKey, setResetKey] = useState(0);
 
   // 출발지 고정 상태는 새로고침 후에도 유지
   useEffect(() => {
@@ -129,6 +131,26 @@ export function AppShell() {
     },
     [pathname, router, searchParams],
   );
+
+  const resetAll = useCallback(() => {
+    router.replace(pathname, { scroll: false });
+    setSelected(null);
+    setRoutes({});
+    setSort("straight");
+    setMapRouteMode("car");
+    setTransitPreference("subway");
+    setMessage(null);
+    setOriginLocked(false);
+    try {
+      localStorage.setItem("originLocked", "0");
+    } catch {
+      // ignore
+    }
+    setReferenceOpen(false);
+    setContactOpen(false);
+    setUsageGuideOpen(false);
+    setResetKey((k) => k + 1);
+  }, [pathname, router]);
 
   useEffect(() => {
     fetch("/api/cities")
@@ -463,7 +485,14 @@ export function AppShell() {
             FIND MY SCHOOL
           </p>
           <h1 className="font-serif text-2xl text-slate-900">
-            초등 전보 도움 지도
+            <button
+              type="button"
+              onClick={resetAll}
+              title="클릭하면 입력 내용이 모두 초기화됩니다"
+              className="cursor-pointer text-left hover:text-emerald-800"
+            >
+              경기도 초등 전보 도움 지도
+            </button>
           </h1>
           <p className="mt-1 text-sm text-slate-600">
             가고 싶은 지역의 급지, 학교까지의 이동 시간을 한 눈에 확인할 수
@@ -472,6 +501,7 @@ export function AppShell() {
         </header>
 
         <OriginSearch
+          key={resetKey}
           origin={origin}
           locked={originLocked}
           onLockedChange={onOriginLockedChange}
