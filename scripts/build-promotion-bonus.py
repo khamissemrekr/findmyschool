@@ -150,6 +150,9 @@ def main():
             unconfirmed.append({"region": region, "name": name, "kind": kind, "grade": grade})
             return
         if not c:
+            # 유치원·특수학교 표는 대상이 아니다(초등학교만 취급)
+            if name.endswith("유치원") or (name.endswith("학교") and not name.endswith("초등학교")):
+                return
             closed.append({"region": region, "name": name, "kind": kind, "grade": grade})
             return
         s = c[0]
@@ -178,9 +181,6 @@ def main():
         for nm in re.split(r"[,\n]+", names):
             nm = nm.strip()
             if not nm or nm.startswith("("):
-                continue
-            # 유치원·특수학교 표는 대상이 아니다(초등학교만 취급)
-            if nm.endswith("유치원") or (nm.endswith("학교") and not nm.endswith("초등학교")):
                 continue
             for x in NAME_OVERRIDES.get(nm, [nm]):
                 kind = "공단" if after == "공단" else "농어촌"
