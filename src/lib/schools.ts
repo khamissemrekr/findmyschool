@@ -4,6 +4,7 @@ import type { CitySummary, School, SchoolsFile } from "@/types/school";
 import { getResearchSchool } from "@/lib/research-schools";
 import { isLeadSchool } from "@/lib/lead-schools";
 import { getAiFocusSchool } from "@/lib/ai-focus-schools";
+import { getPromotionBonus } from "@/lib/promotion-bonus";
 import { getNewSchool } from "@/lib/new-schools";
 import { getSchoolInfoUrl } from "@/lib/schoolinfo-links";
 
@@ -33,6 +34,7 @@ function withStaffDefaults(school: School): School {
     researchSchool: getResearchSchool(school.id),
     leadSchool: isLeadSchool(school.id),
     aiFocusSchool: getAiFocusSchool(school.id),
+    promotionBonus: getPromotionBonus(school.id),
     newSchool: getNewSchool(school.id),
     schoolInfoUrl: getSchoolInfoUrl(school.id),
   };

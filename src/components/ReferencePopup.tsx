@@ -62,6 +62,14 @@ export function ReferencePopup({ onClose }: Props) {
           <dd>2026년 AI·디지털 활용 선도학교 선정 결과_경기 (경기도교육청)</dd>
         </div>
         <div>
+          <dt className="font-medium text-slate-800">월평점(승진 가산점)</dt>
+          <dd>
+            2026.2.28.자 기준 교육공무원 승진규정에 따른 평정업무처리요령(초등유아)
+            승진점수표와 지역표 (경기도교육청). 현재 적용 중인 학교만 표시하며,
+            내년도 평정기준 확정 전입니다.
+          </dd>
+        </div>
+        <div>
           <dt className="font-medium text-slate-800">AI 중점학교</dt>
           <dd>2026년 AI 중점학교 선정 결과 (경기도교육청)</dd>
         </div>

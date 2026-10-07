@@ -64,6 +64,8 @@ export interface School {
   leadSchool: boolean;
   /** 2026년 AI 중점학교 선정 정보 (해당 없으면 null) */
   aiFocusSchool: AiFocusSchoolInfo | null;
+  /** 승진 가산점 급지·월평점 (현재 적용 중인 경우만, 없으면 null) */
+  promotionBonus: PromotionBonusInfo | null;
   /** 신설교(원) 지정 정보 (해당 없으면 null) */
   newSchool: NewSchoolInfo | null;
   /** 학교알리미(schoolinfo.go.kr) 상세 페이지 URL (없으면 null) */
@@ -80,6 +82,32 @@ export interface LeadSchoolsFile {
   year: number;
   source: string;
   schoolIds: string[];
+}
+
+export type PromotionBonusKind = "벽지" | "접적" | "농어촌" | "공단" | "교육감지정접경";
+
+export interface PromotionBonusInfo {
+  kind: PromotionBonusKind;
+  /** 벽지·접적: 가/나/다/라, 농어촌: 읍/면, 공단·교육감지정접경: null */
+  grade: string | null;
+  /** 월평점 */
+  monthly: number;
+  /** 지정기간 원문 */
+  since: string;
+  flags?: {
+    /** 승진점수표 급지가 기존 급지표(subZone)와 다름 */
+    gradeMismatch?: { existing: string };
+    /** 앱 인사구역(갑/을/병)이 해당 가산점 종류의 일반적 대응과 다름 */
+    zoneMismatch?: { zone: string; expected: string };
+  };
+}
+
+export interface PromotionBonusFile {
+  source: string;
+  asOf: string;
+  note: string;
+  /** 학교 id -> 가산점 정보 */
+  schools: Record<string, PromotionBonusInfo>;
 }
 
 /** AI 중점학교 유형: 1 AI·정보교육 선도형, 2 AI·정보교육 중심형, 3 문화확산형 */

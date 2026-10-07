@@ -1,6 +1,10 @@
 "use client";
 
 import { formatDistance, formatDuration } from "@/lib/geo";
+import {
+  promotionBonusLabel,
+  promotionBonusWarning,
+} from "@/lib/promotion-bonus-label";
 import type { SchoolListItem } from "@/types/school";
 
 type SortKey =
@@ -112,6 +116,19 @@ export function SchoolList({
                 <div>
                   <div className="flex flex-wrap items-center gap-1.5">
                     {zoneBadge(s.zone, s.subZone)}
+                    {s.promotionBonus && (
+                      <span
+                        title={promotionBonusWarning(s.promotionBonus) ?? undefined}
+                        className={`text-[11px] font-medium ${
+                          promotionBonusWarning(s.promotionBonus)
+                            ? "text-red-600"
+                            : "text-slate-600"
+                        }`}
+                      >
+                        ({promotionBonusLabel(s.promotionBonus)})
+                        {promotionBonusWarning(s.promotionBonus) ? "※" : ""}
+                      </span>
+                    )}
                     <span className="text-sm font-medium text-slate-900">
                       {s.name}
                     </span>

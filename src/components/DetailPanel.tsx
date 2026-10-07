@@ -1,6 +1,10 @@
 "use client";
 
 import { formatDistance, formatDuration } from "@/lib/geo";
+import {
+  promotionBonusLabel,
+  promotionBonusWarning,
+} from "@/lib/promotion-bonus-label";
 import type {
   RouteMode,
   RouteResult,
@@ -76,7 +80,19 @@ export function DetailPanel({
             <p className="text-xs font-medium text-emerald-700">
               {school.city} · {school.zone}
               {school.subZone ? `/${school.subZone}` : ""} 급지
+              {school.promotionBonus && (
+                <span className="ml-1 text-slate-600">
+                  ({promotionBonusLabel(school.promotionBonus)})
+                </span>
+              )}
             </p>
+            {school.promotionBonus &&
+              promotionBonusWarning(school.promotionBonus) && (
+                <p className="mt-0.5 text-[11px] text-red-600">
+                  ※ {promotionBonusWarning(school.promotionBonus)} 내년도
+                  평정기준 확정 전이므로 확인이 필요합니다.
+                </p>
+              )}
             <h2 className="flex flex-wrap items-center gap-1.5 text-lg font-semibold text-slate-900">
               {school.name}
               {school.researchSchool && (
